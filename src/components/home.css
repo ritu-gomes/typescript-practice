@@ -1,0 +1,11 @@
+.home{
+    width: 70%;
+    margin: auto;
+    background-color: rgba(159, 230, 248, 0.945);
+    padding: 30px;
+    border-radius: 10px;
+}
+ .home h1{
+    text-align: center;
+ }
+ 

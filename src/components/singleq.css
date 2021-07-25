@@ -1,0 +1,15 @@
+.single-q{
+    margin-bottom: 10px;
+    background-color: rgb(203, 247, 247);
+    border-radius: 10px;
+    padding: 20px;
+}
+.single-q p{
+    border-bottom: 1px solid rgb(170, 168, 168);
+    padding: 10px;
+    transition: .4s;
+}
+.single-q p:hover{
+    background-color: aqua;
+    border-radius: 10px;
+}
